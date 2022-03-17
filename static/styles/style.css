@@ -1,0 +1,27 @@
+form .mn{
+    width: 50%;
+    height: 40rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 1rem;
+    border: 1px solid black;
+    background-color: aqua;
+    margin: 6rem  auto;
+}
+.mn h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.mn input{
+    width: 70%;
+    height: 1.5rem;
+}
+.mn button{
+    width: 8rem;
+    height: 3rem;
+    margin-top: 2rem;
+    background-color: black;
+    color: wheat;
+    cursor: pointer;
+}
